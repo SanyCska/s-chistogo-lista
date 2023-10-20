@@ -18,9 +18,9 @@ blockquote {
   padding: 0;
 }
 
-a{
-    color: #fff;
-    text-decoration: none;
+a {
+  color: #fff;
+  text-decoration: none;
 }
 
 .content-section {
@@ -161,7 +161,7 @@ a{
 }
 
 .content-section__introduction {
-  font-family: "Inter", sans-serif;;
+  font-family: "Inter", sans-serif;
   font-size: 20px;
   font-style: normal;
   font-weight: 400;
@@ -169,7 +169,7 @@ a{
 }
 
 .content-section__list {
-  font-family: "Inter", sans-serif;;
+  font-family: "Inter", sans-serif;
   font-size: 16px;
   font-style: normal;
   font-weight: 400;
@@ -183,7 +183,7 @@ a{
 }
 
 .content-section__list-accent {
-  font-family: "Inter", sans-serif;;
+  font-family: "Inter", sans-serif;
   font-weight: 700;
 }
 
@@ -227,7 +227,7 @@ a{
   flex-direction: column;
   align-items: flex-start;
   gap: 8px;
-  font-family: "Inter", sans-serif;;
+  font-family: "Inter", sans-serif;
   font-size: 16px;
   font-style: normal;
   font-weight: 700;
@@ -254,7 +254,7 @@ a{
   flex-direction: column;
   align-items: flex-start;
   gap: 8px;
-  font-family: "Inter", sans-serif;;
+  font-family: "Inter", sans-serif;
   font-size: 16px;
   font-style: normal;
   font-weight: 400;
@@ -271,7 +271,7 @@ a{
 }
 
 .footer__copy {
-  font-family: "Inter", sans-serif;;
+  font-family: "Inter", sans-serif;
   font-size: 16px;
   font-style: normal;
   font-weight: 400;
@@ -282,7 +282,7 @@ a{
   display: flex;
   align-items: flex-start;
   gap: 16px;
-  font-family: "Inter", sans-serif;;
+  font-family: "Inter", sans-serif;
   font-size: 14px;
   font-style: normal;
   font-weight: 400;
